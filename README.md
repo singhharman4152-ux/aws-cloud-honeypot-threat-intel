@@ -32,6 +32,7 @@ Designed and deployed an intentional decoy cloud honeypot on an AWS EC2 instance
     [ Live Console Alerts ]        [ Structured Intelligence ]
      • IP, Location, ISP            • threat_intel.json
      • Attack Timestamps            • IoC Ingestion Pipeline
+
 ---
 ## 3. Real Captured Attack Telemetry
 
